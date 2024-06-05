@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListeBlancheDRIM-M xmlns="https://listeblanche.mesimagesmedicales.fr/schema" versionFormat="1.0.0">
+    <DateDeGeneration>2024-04-22T11:08:12Z</DateDeGeneration>
+    <ListeDomaines>
+        <Domaine>
+            <Nom>db1.111.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 01 test</Description>
+            <DNCertificatOperateur>CN=db1.111.mesimagesmedicales.fr,OU=31598513500187,O=editeur,ST=Paris (75),C=FR</DNCertificatOperateur>
+            <ResponsableContact>antoine.tapis@op01.fr, 07 33 65 18 37</ResponsableContact>
+            <SupportContact>antoine.tapis@op01.fr, 07 33 65 18 37</SupportContact>
+            <DateMAJ>2024-04-23T20:36:12Z</DateMAJ>
+        </Domaine>
+		<Domaine>
+            <Nom>db1.112.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 01 test</Description>
+            <DNCertificatOperateur>CN=db1.112.mesimagesmedicales.fr,OU=47998513507810,O=editeur,ST=Paris (75),C=FR</DNCertificatOperateur>
+            <ResponsableContact>antoine.tapis@op01.fr, 07 33 65 18 37</ResponsableContact>
+            <SupportContact>antoine.tapis@op01.fr, 07 33 65 18 37</SupportContact>
+            <DateMAJ>2024-04-23T20:36:12Z</DateMAJ>
+        </Domaine>
+		<Domaine>
+            <Nom>db1.345.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 02 test</Description>
+            <DNCertificatOperateur>CN=db1.345.mesimagesmedicales.fr,OU=49188397100039,O=editeur,ST=Marseille (13),C=FR</DNCertificatOperateur>
+            <ResponsableContact>henri.beck@op02.com, 06 32 44 09 09</ResponsableContact>
+            <SupportContact>henri.beck@op02.com, 06 32 44 09 09</SupportContact>
+            <DateMAJ>2024-04-23T20:36:12Z</DateMAJ>
+        </Domaine>
+		<Domaine>
+            <Nom>db2.345.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 02 test</Description>
+            <DNCertificatOperateur>CN=db2.345.mesimagesmedicales.fr,OU=49188397100039,O=editeur,ST=Marseille (13),C=FR</DNCertificatOperateur>
+            <ResponsableContact>henri.beck@op02.com, 06 32 44 09 09</ResponsableContact>
+            <SupportContact>henri.beck@op02.com, 06 32 44 09 09</SupportContact>
+            <DateMAJ>2024-04-23T20:36:12Z</DateMAJ>
+        </Domaine>
+		<Domaine>
+            <Nom>db1.867.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 03 test</Description>
+            <DNCertificatOperateur>CN=db1.867.mesimagesmedicales.fr,OU=31954523700765,O=editeur,ST=Lyon(69),C=FR</DNCertificatOperateur>
+            <ResponsableContact>julien.fontois@op03.fr, 06 44 87 98 07</ResponsableContact>
+            <SupportContact>julien.fontois@op03.fr, 06 44 87 98 07</SupportContact>
+            <DateMAJ>2024-04-25T09:24:12Z</DateMAJ>
+        </Domaine>
+		<Domaine>
+            <Nom>db2.867.mesimagesmedicales.fr</Nom>
+            <Description>Operateur 03 test</Description>
+            <DNCertificatOperateur>CN=db2.867.mesimagesmedicales.fr,OU=31954523700765,O=editeur,ST=Lyon(69),C=FR</DNCertificatOperateur>
+            <ResponsableContact>julien.fontois@op03.fr, 06 44 87 98 07</ResponsableContact>
+            <SupportContact>julien.fontois@op03.fr, 06 44 87 98 07</SupportContact>
+            <DateMAJ>2024-04-25T09:24:12Z</DateMAJ>
+        </Domaine>
+    </ListeDomaines>
+	</ListeBlancheDRIM-M>
